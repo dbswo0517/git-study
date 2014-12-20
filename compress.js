@@ -1,3 +1,8 @@
+
+/* 
+Author yoonjae <yoonjae0517@nate.com>
+LICENSE under Yoon
+*/
 function compress(str) {
   var repeat = 1;
   var result = str.charAt(0);
